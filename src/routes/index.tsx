@@ -219,7 +219,7 @@ function Products() {
 
 function Promotions() {
   const promos = [
-    { day: "Seg a Sex", title: "Café da manhã completo", desc: "Pão na chapa, café e suco natural", price: "R$ 9,90" },
+    { day: "Seg a Sex", title: "Café da manhã completo", desc: "Pão na chapa, café e suco natural", price: "R$ 25,00" },
     { day: "Quartas", title: "Dúzia de pão francês", desc: "Leve 12, pague 10 até as 18h", price: "R$ 12,00" },
     { day: "Sábados", title: "Bolo do dia", desc: "Fatia generosa com café espresso", price: "R$ 16,00" },
   ];
